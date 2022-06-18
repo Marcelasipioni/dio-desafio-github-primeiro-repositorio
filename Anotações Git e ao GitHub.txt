@@ -1,0 +1,10 @@
+dir: Lista Pastas
+cd: navega entre as pastas
+cd/: Vai para um local específico
+cd ..: Retorna um nível
+cls: Limpa a tela
+Tecla TAB: Auto completa
+mkdir: cria uma pasta/diretório
+del: deleta arquivo
+rmdir: deleta dirtório com flags /S e /Q
+ls -a: Ver pasta oculta
