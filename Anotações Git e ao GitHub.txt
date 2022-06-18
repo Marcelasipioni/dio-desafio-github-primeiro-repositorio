@@ -8,3 +8,6 @@ mkdir: cria uma pasta/diretório
 del: deleta arquivo
 rmdir: deleta dirtório com flags /S e /Q
 ls -a: Ver pasta oculta
+git add.: Adiciona alterações
+git  commit -m  "": Adiciona comentari
+git push origin main: Envia pra nuvem
